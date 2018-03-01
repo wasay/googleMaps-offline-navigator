@@ -99,3 +99,6 @@ data/*
 
 # secrets.json ***SHOULD NEVER BE PUSHED INTO GITHUB***
 secrets.json
+
+# PhpStorm config folder
+.idea/
